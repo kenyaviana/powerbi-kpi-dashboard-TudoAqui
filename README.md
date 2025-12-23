@@ -60,14 +60,12 @@ CALCULATE(
 - Dashboard Analítico: visão gráfica e estratégica
 
 ![Visão Analítica](images/Dash_Analise_TudoAqui.png)
-
+- Gráfico de colunas e linhas (Top 100 bairros – Curva 80/20)
+- Crescimento anual de acomodações e preço final
 
 - Dashboard Detalhado: tabelas e matrizes para exploração dos dados
 
 ![Visão Detalhada](images/Dash_Detalhado_TudoAqui.png)
-
-- Gráfico de colunas e linhas (Top 100 bairros – Curva 80/20)
-- Crescimento anual de acomodações e preço final
 - Distribuição geográfica por grupo de bairros
 - Segmentações por data, acomodação, anfitrião, localização, tipo e classificação do quarto
 
